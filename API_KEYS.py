@@ -1,0 +1,1 @@
+my_mistral_api_key = "PASTE_YOUR_API_KEY"
