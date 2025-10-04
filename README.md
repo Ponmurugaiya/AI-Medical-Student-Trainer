@@ -1,11 +1,6 @@
-# AI-Powered Medical Student Trainer (Backend)
+# AI-Powered Medical Student Trainer
 
 An interactive backend system that simulates realistic patient conversations for medical training. This backend allows learners to ask questions, submit diagnoses, and receive contextual feedback powered by the Mistral language model.
-
-## Project Status
-
-**Backend completed**
-Frontend and UI integration pending.
 
 ## Features
 
@@ -48,8 +43,8 @@ Frontend and UI integration pending.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Ponmurugaiya/AI-Trainer-Symptom-simulator.git
-   cd symptom-simulator-backend
+   git clone https://github.com/Ponmurugaiya/AI-Medical-Student-Trainer.git
+   cd AI-Medical-Student-Trainer
    ```
 
 2. Set your Mistral API key in `API_KEYS.py`
