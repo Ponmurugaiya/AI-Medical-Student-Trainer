@@ -1,4 +1,4 @@
-# AI-Powered Symptom Simulator (Backend)
+# AI-Powered Medical Student Trainer (Backend)
 
 An interactive backend system that simulates realistic patient conversations for medical training. This backend allows learners to ask questions, submit diagnoses, and receive contextual feedback powered by the Mistral language model.
 
